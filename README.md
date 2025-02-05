@@ -11,7 +11,7 @@ This project uses OpenCV and CVZone to detect hand gestures and zoom in/out of a
 - Dynamic resizing of the image based on hand distance.
 
 ## Requirements
-- Python 3.x
+- Python 3.10
 - OpenCV (`pip install opencv-python`)
 - CVZone (`pip install cvzone`)
 
